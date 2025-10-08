@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React Practice",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamAdityaKumar01/react-practice.git"
+  },
+  "author": "Aditya Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamAdityaKumar01/react-practice/issues"
+  },
+  "homepage": "https://github.com/IamAdityaKumar01/react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserslist": [
+  "last 1 chrome version"]
+
+}
+
